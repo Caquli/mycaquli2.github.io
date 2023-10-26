@@ -1,6 +1,6 @@
 @font-face {
     font-family: "FONT";
-    src: url('../HelveticaforTarget-Bold.ttf') format('truetype');
+    src: url(HelveticaforTarget-Bold.ttf) format('truetype');
 }
 body{
     background-color: black;
