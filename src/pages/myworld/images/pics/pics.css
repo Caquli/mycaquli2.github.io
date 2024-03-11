@@ -11,3 +11,6 @@ body{
     text-decoration: none;
     color: inherit;
 }
+.div1{
+    object-fit: contain;
+}
