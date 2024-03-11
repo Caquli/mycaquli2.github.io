@@ -12,5 +12,6 @@ body{
     color: inherit;
 }
 .div1{
-    object-fit: fill;
+    max-width: 90%;
+    max-height: 90%;
 }
