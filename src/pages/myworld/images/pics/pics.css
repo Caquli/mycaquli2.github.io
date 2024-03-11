@@ -12,5 +12,5 @@ body{
     color: inherit;
 }
 .div1{
-    object-fit: contain;
+    object-fit: fill;
 }
